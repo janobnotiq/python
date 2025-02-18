@@ -42,7 +42,7 @@
 # number %= 3 # number = number % 3 = 40 % 3 = 1
 # print(number)
 
-# comparision operators
+# comparison operators
 # >,<,==,!=,>=,<=
 # print(100 != 10)
 # print(10 >= 10)
